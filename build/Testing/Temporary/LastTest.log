@@ -1,0 +1,65 @@
+Start testing: Oct 09 11:04 CEST
+----------------------------------------------------------
+1/4 Testing: sid64_arpeggiator
+1/4 Test: sid64_arpeggiator
+Command: "/Users/michiele/Downloads/SID-Studio-64-Ronde3C1-Fix-v0.3.5/build/sid64_arp_tests"
+Directory: /Users/michiele/Downloads/SID-Studio-64-Ronde3C1-Fix-v0.3.5/build
+"sid64_arpeggiator" start time: Oct 09 11:04 CEST
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.24 sec
+----------------------------------------------------------
+Test Passed.
+"sid64_arpeggiator" end time: Oct 09 11:04 CEST
+"sid64_arpeggiator" time elapsed: 00:00:00
+----------------------------------------------------------
+
+2/4 Testing: sid64_sequence
+2/4 Test: sid64_sequence
+Command: "/Users/michiele/Downloads/SID-Studio-64-Ronde3C1-Fix-v0.3.5/build/sid64_sequence_tests"
+Directory: /Users/michiele/Downloads/SID-Studio-64-Ronde3C1-Fix-v0.3.5/build
+"sid64_sequence" start time: Oct 09 11:04 CEST
+Output:
+----------------------------------------------------------
+sequence timing OK
+<end of output>
+Test time =   0.27 sec
+----------------------------------------------------------
+Test Passed.
+"sid64_sequence" end time: Oct 09 11:04 CEST
+"sid64_sequence" time elapsed: 00:00:00
+----------------------------------------------------------
+
+3/4 Testing: sid64_engine
+3/4 Test: sid64_engine
+Command: "/Users/michiele/Downloads/SID-Studio-64-Ronde3C1-Fix-v0.3.5/build/sid64_tests"
+Directory: /Users/michiele/Downloads/SID-Studio-64-Ronde3C1-Fix-v0.3.5/build
+"sid64_engine" start time: Oct 09 11:04 CEST
+Output:
+----------------------------------------------------------
+GREEN: 12 checks passed (modes, polyphony, audio, release, safety)
+<end of output>
+Test time =   0.21 sec
+----------------------------------------------------------
+Test Passed.
+"sid64_engine" end time: Oct 09 11:04 CEST
+"sid64_engine" time elapsed: 00:00:00
+----------------------------------------------------------
+
+4/4 Testing: sid64_character
+4/4 Test: sid64_character
+Command: "/Users/michiele/Downloads/SID-Studio-64-Ronde3C1-Fix-v0.3.5/build/sid64_character_tests"
+Directory: /Users/michiele/Downloads/SID-Studio-64-Ronde3C1-Fix-v0.3.5/build
+"sid64_character" start time: Oct 09 11:04 CEST
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.21 sec
+----------------------------------------------------------
+Test Passed.
+"sid64_character" end time: Oct 09 11:04 CEST
+"sid64_character" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Oct 09 11:04 CEST

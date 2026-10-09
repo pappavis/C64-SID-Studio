@@ -1,0 +1,1 @@
+/usr/bin/c++ -O3 -DNDEBUG -arch arm64 -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/sid64_sequence_tests.dir/tests/test_sequence.cpp.o CMakeFiles/sid64_sequence_tests.dir/src/StepSequencer.cpp.o CMakeFiles/sid64_sequence_tests.dir/src/Arpeggiator.cpp.o -o sid64_sequence_tests

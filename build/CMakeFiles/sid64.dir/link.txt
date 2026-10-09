@@ -1,0 +1,2 @@
+/usr/bin/ar qc libsid64.a CMakeFiles/sid64.dir/src/SidEngine.cpp.o
+/usr/bin/ranlib libsid64.a
