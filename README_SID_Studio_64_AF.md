@@ -15,6 +15,10 @@ Die toepassing is bedoel vir musikante, komponiste en klankontwerpers wat klassi
 
 **Belangrik:** SID Studio 64 is ’n *SID-geïnspireerde* sintetiseerder, nie ’n siklus-presiese nabootsing van die oorspronklike MOS 6581 nie.
 
+
+<img src="./img/C64_sid_studio.png">
+
+
 ## 2. Funksies in weergawe 0.3.5
 
 | Gebied | Beskrywing |
