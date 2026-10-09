@@ -54,10 +54,10 @@ RM = /opt/homebrew/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /Users/michiele/Downloads/SID-Studio-64-Ronde3C1-Fix-v0.3.5
+CMAKE_SOURCE_DIR = /Volumes/data1/AI_Gerelateerd/github/muziek_gerelateerd/C64-SID-Studio
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /Users/michiele/Downloads/SID-Studio-64-Ronde3C1-Fix-v0.3.5/build
+CMAKE_BINARY_DIR = /Volumes/data1/AI_Gerelateerd/github/muziek_gerelateerd/C64-SID-Studio/build
 
 #=============================================================================
 # Directory level rules for the build root directory
@@ -190,14 +190,14 @@ _deps/juce-build/modules/clean:
 CMakeFiles/sid64.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/sid64.dir/build.make CMakeFiles/sid64.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/sid64.dir/build.make CMakeFiles/sid64.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/Users/michiele/Downloads/SID-Studio-64-Ronde3C1-Fix-v0.3.5/build/CMakeFiles --progress-num=48,49 "Built target sid64"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/Volumes/data1/AI_Gerelateerd/github/muziek_gerelateerd/C64-SID-Studio/build/CMakeFiles --progress-num=48,49 "Built target sid64"
 .PHONY : CMakeFiles/sid64.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/sid64.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/michiele/Downloads/SID-Studio-64-Ronde3C1-Fix-v0.3.5/build/CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start /Volumes/data1/AI_Gerelateerd/github/muziek_gerelateerd/C64-SID-Studio/build/CMakeFiles 2
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/sid64.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/michiele/Downloads/SID-Studio-64-Ronde3C1-Fix-v0.3.5/build/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /Volumes/data1/AI_Gerelateerd/github/muziek_gerelateerd/C64-SID-Studio/build/CMakeFiles 0
 .PHONY : CMakeFiles/sid64.dir/rule
 
 # Convenience name for target.
@@ -207,7 +207,7 @@ sid64: CMakeFiles/sid64.dir/rule
 # codegen rule for target.
 CMakeFiles/sid64.dir/codegen:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/sid64.dir/build.make CMakeFiles/sid64.dir/codegen
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/Users/michiele/Downloads/SID-Studio-64-Ronde3C1-Fix-v0.3.5/build/CMakeFiles --progress-num=48,49 "Finished codegen for target sid64"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/Volumes/data1/AI_Gerelateerd/github/muziek_gerelateerd/C64-SID-Studio/build/CMakeFiles --progress-num=48,49 "Finished codegen for target sid64"
 .PHONY : CMakeFiles/sid64.dir/codegen
 
 # clean rule for target.
@@ -222,14 +222,14 @@ CMakeFiles/sid64.dir/clean:
 CMakeFiles/sid64_tests.dir/all: CMakeFiles/sid64.dir/all
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/sid64_tests.dir/build.make CMakeFiles/sid64_tests.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/sid64_tests.dir/build.make CMakeFiles/sid64_tests.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/Users/michiele/Downloads/SID-Studio-64-Ronde3C1-Fix-v0.3.5/build/CMakeFiles --progress-num=59,60 "Built target sid64_tests"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/Volumes/data1/AI_Gerelateerd/github/muziek_gerelateerd/C64-SID-Studio/build/CMakeFiles --progress-num=59,60 "Built target sid64_tests"
 .PHONY : CMakeFiles/sid64_tests.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/sid64_tests.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/michiele/Downloads/SID-Studio-64-Ronde3C1-Fix-v0.3.5/build/CMakeFiles 4
+	$(CMAKE_COMMAND) -E cmake_progress_start /Volumes/data1/AI_Gerelateerd/github/muziek_gerelateerd/C64-SID-Studio/build/CMakeFiles 4
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/sid64_tests.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/michiele/Downloads/SID-Studio-64-Ronde3C1-Fix-v0.3.5/build/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /Volumes/data1/AI_Gerelateerd/github/muziek_gerelateerd/C64-SID-Studio/build/CMakeFiles 0
 .PHONY : CMakeFiles/sid64_tests.dir/rule
 
 # Convenience name for target.
@@ -239,7 +239,7 @@ sid64_tests: CMakeFiles/sid64_tests.dir/rule
 # codegen rule for target.
 CMakeFiles/sid64_tests.dir/codegen:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/sid64_tests.dir/build.make CMakeFiles/sid64_tests.dir/codegen
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/Users/michiele/Downloads/SID-Studio-64-Ronde3C1-Fix-v0.3.5/build/CMakeFiles --progress-num=59,60 "Finished codegen for target sid64_tests"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/Volumes/data1/AI_Gerelateerd/github/muziek_gerelateerd/C64-SID-Studio/build/CMakeFiles --progress-num=59,60 "Finished codegen for target sid64_tests"
 .PHONY : CMakeFiles/sid64_tests.dir/codegen
 
 # clean rule for target.
@@ -254,14 +254,14 @@ CMakeFiles/sid64_tests.dir/clean:
 CMakeFiles/sid64_character_tests.dir/all: CMakeFiles/sid64.dir/all
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/sid64_character_tests.dir/build.make CMakeFiles/sid64_character_tests.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/sid64_character_tests.dir/build.make CMakeFiles/sid64_character_tests.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/Users/michiele/Downloads/SID-Studio-64-Ronde3C1-Fix-v0.3.5/build/CMakeFiles --progress-num=53,54 "Built target sid64_character_tests"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/Volumes/data1/AI_Gerelateerd/github/muziek_gerelateerd/C64-SID-Studio/build/CMakeFiles --progress-num=53,54 "Built target sid64_character_tests"
 .PHONY : CMakeFiles/sid64_character_tests.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/sid64_character_tests.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/michiele/Downloads/SID-Studio-64-Ronde3C1-Fix-v0.3.5/build/CMakeFiles 4
+	$(CMAKE_COMMAND) -E cmake_progress_start /Volumes/data1/AI_Gerelateerd/github/muziek_gerelateerd/C64-SID-Studio/build/CMakeFiles 4
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/sid64_character_tests.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/michiele/Downloads/SID-Studio-64-Ronde3C1-Fix-v0.3.5/build/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /Volumes/data1/AI_Gerelateerd/github/muziek_gerelateerd/C64-SID-Studio/build/CMakeFiles 0
 .PHONY : CMakeFiles/sid64_character_tests.dir/rule
 
 # Convenience name for target.
@@ -271,7 +271,7 @@ sid64_character_tests: CMakeFiles/sid64_character_tests.dir/rule
 # codegen rule for target.
 CMakeFiles/sid64_character_tests.dir/codegen:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/sid64_character_tests.dir/build.make CMakeFiles/sid64_character_tests.dir/codegen
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/Users/michiele/Downloads/SID-Studio-64-Ronde3C1-Fix-v0.3.5/build/CMakeFiles --progress-num=53,54 "Finished codegen for target sid64_character_tests"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/Volumes/data1/AI_Gerelateerd/github/muziek_gerelateerd/C64-SID-Studio/build/CMakeFiles --progress-num=53,54 "Finished codegen for target sid64_character_tests"
 .PHONY : CMakeFiles/sid64_character_tests.dir/codegen
 
 # clean rule for target.
@@ -286,14 +286,14 @@ CMakeFiles/sid64_character_tests.dir/clean:
 CMakeFiles/sid64_arp_tests.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/sid64_arp_tests.dir/build.make CMakeFiles/sid64_arp_tests.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/sid64_arp_tests.dir/build.make CMakeFiles/sid64_arp_tests.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/Users/michiele/Downloads/SID-Studio-64-Ronde3C1-Fix-v0.3.5/build/CMakeFiles --progress-num=50,51,52 "Built target sid64_arp_tests"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/Volumes/data1/AI_Gerelateerd/github/muziek_gerelateerd/C64-SID-Studio/build/CMakeFiles --progress-num=50,51,52 "Built target sid64_arp_tests"
 .PHONY : CMakeFiles/sid64_arp_tests.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/sid64_arp_tests.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/michiele/Downloads/SID-Studio-64-Ronde3C1-Fix-v0.3.5/build/CMakeFiles 3
+	$(CMAKE_COMMAND) -E cmake_progress_start /Volumes/data1/AI_Gerelateerd/github/muziek_gerelateerd/C64-SID-Studio/build/CMakeFiles 3
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/sid64_arp_tests.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/michiele/Downloads/SID-Studio-64-Ronde3C1-Fix-v0.3.5/build/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /Volumes/data1/AI_Gerelateerd/github/muziek_gerelateerd/C64-SID-Studio/build/CMakeFiles 0
 .PHONY : CMakeFiles/sid64_arp_tests.dir/rule
 
 # Convenience name for target.
@@ -303,7 +303,7 @@ sid64_arp_tests: CMakeFiles/sid64_arp_tests.dir/rule
 # codegen rule for target.
 CMakeFiles/sid64_arp_tests.dir/codegen:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/sid64_arp_tests.dir/build.make CMakeFiles/sid64_arp_tests.dir/codegen
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/Users/michiele/Downloads/SID-Studio-64-Ronde3C1-Fix-v0.3.5/build/CMakeFiles --progress-num=50,51,52 "Finished codegen for target sid64_arp_tests"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/Volumes/data1/AI_Gerelateerd/github/muziek_gerelateerd/C64-SID-Studio/build/CMakeFiles --progress-num=50,51,52 "Finished codegen for target sid64_arp_tests"
 .PHONY : CMakeFiles/sid64_arp_tests.dir/codegen
 
 # clean rule for target.
@@ -318,14 +318,14 @@ CMakeFiles/sid64_arp_tests.dir/clean:
 CMakeFiles/sid64_sequence_tests.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/sid64_sequence_tests.dir/build.make CMakeFiles/sid64_sequence_tests.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/sid64_sequence_tests.dir/build.make CMakeFiles/sid64_sequence_tests.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/Users/michiele/Downloads/SID-Studio-64-Ronde3C1-Fix-v0.3.5/build/CMakeFiles --progress-num=55,56,57,58 "Built target sid64_sequence_tests"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/Volumes/data1/AI_Gerelateerd/github/muziek_gerelateerd/C64-SID-Studio/build/CMakeFiles --progress-num=55,56,57,58 "Built target sid64_sequence_tests"
 .PHONY : CMakeFiles/sid64_sequence_tests.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/sid64_sequence_tests.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/michiele/Downloads/SID-Studio-64-Ronde3C1-Fix-v0.3.5/build/CMakeFiles 4
+	$(CMAKE_COMMAND) -E cmake_progress_start /Volumes/data1/AI_Gerelateerd/github/muziek_gerelateerd/C64-SID-Studio/build/CMakeFiles 4
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/sid64_sequence_tests.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/michiele/Downloads/SID-Studio-64-Ronde3C1-Fix-v0.3.5/build/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /Volumes/data1/AI_Gerelateerd/github/muziek_gerelateerd/C64-SID-Studio/build/CMakeFiles 0
 .PHONY : CMakeFiles/sid64_sequence_tests.dir/rule
 
 # Convenience name for target.
@@ -335,7 +335,7 @@ sid64_sequence_tests: CMakeFiles/sid64_sequence_tests.dir/rule
 # codegen rule for target.
 CMakeFiles/sid64_sequence_tests.dir/codegen:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/sid64_sequence_tests.dir/build.make CMakeFiles/sid64_sequence_tests.dir/codegen
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/Users/michiele/Downloads/SID-Studio-64-Ronde3C1-Fix-v0.3.5/build/CMakeFiles --progress-num=55,56,57,58 "Finished codegen for target sid64_sequence_tests"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/Volumes/data1/AI_Gerelateerd/github/muziek_gerelateerd/C64-SID-Studio/build/CMakeFiles --progress-num=55,56,57,58 "Finished codegen for target sid64_sequence_tests"
 .PHONY : CMakeFiles/sid64_sequence_tests.dir/codegen
 
 # clean rule for target.
@@ -350,14 +350,14 @@ CMakeFiles/sid64_sequence_tests.dir/clean:
 CMakeFiles/SIDStudio64.dir/all: CMakeFiles/sid64.dir/all
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/SIDStudio64.dir/build.make CMakeFiles/SIDStudio64.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/SIDStudio64.dir/build.make CMakeFiles/SIDStudio64.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/Users/michiele/Downloads/SID-Studio-64-Ronde3C1-Fix-v0.3.5/build/CMakeFiles --progress-num=1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21 "Built target SIDStudio64"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/Volumes/data1/AI_Gerelateerd/github/muziek_gerelateerd/C64-SID-Studio/build/CMakeFiles --progress-num=1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21 "Built target SIDStudio64"
 .PHONY : CMakeFiles/SIDStudio64.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/SIDStudio64.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/michiele/Downloads/SID-Studio-64-Ronde3C1-Fix-v0.3.5/build/CMakeFiles 23
+	$(CMAKE_COMMAND) -E cmake_progress_start /Volumes/data1/AI_Gerelateerd/github/muziek_gerelateerd/C64-SID-Studio/build/CMakeFiles 23
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/SIDStudio64.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/michiele/Downloads/SID-Studio-64-Ronde3C1-Fix-v0.3.5/build/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /Volumes/data1/AI_Gerelateerd/github/muziek_gerelateerd/C64-SID-Studio/build/CMakeFiles 0
 .PHONY : CMakeFiles/SIDStudio64.dir/rule
 
 # Convenience name for target.
@@ -367,7 +367,7 @@ SIDStudio64: CMakeFiles/SIDStudio64.dir/rule
 # codegen rule for target.
 CMakeFiles/SIDStudio64.dir/codegen:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/SIDStudio64.dir/build.make CMakeFiles/SIDStudio64.dir/codegen
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/Users/michiele/Downloads/SID-Studio-64-Ronde3C1-Fix-v0.3.5/build/CMakeFiles --progress-num=1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21 "Finished codegen for target SIDStudio64"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/Volumes/data1/AI_Gerelateerd/github/muziek_gerelateerd/C64-SID-Studio/build/CMakeFiles --progress-num=1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21 "Finished codegen for target SIDStudio64"
 .PHONY : CMakeFiles/SIDStudio64.dir/codegen
 
 # clean rule for target.
@@ -383,14 +383,14 @@ CMakeFiles/SIDStudio64_All.dir/all: CMakeFiles/SIDStudio64_Standalone.dir/all
 CMakeFiles/SIDStudio64_All.dir/all: CMakeFiles/SIDStudio64_AU.dir/all
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/SIDStudio64_All.dir/build.make CMakeFiles/SIDStudio64_All.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/SIDStudio64_All.dir/build.make CMakeFiles/SIDStudio64_All.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/Users/michiele/Downloads/SID-Studio-64-Ronde3C1-Fix-v0.3.5/build/CMakeFiles --progress-num= "Built target SIDStudio64_All"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/Volumes/data1/AI_Gerelateerd/github/muziek_gerelateerd/C64-SID-Studio/build/CMakeFiles --progress-num= "Built target SIDStudio64_All"
 .PHONY : CMakeFiles/SIDStudio64_All.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/SIDStudio64_All.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/michiele/Downloads/SID-Studio-64-Ronde3C1-Fix-v0.3.5/build/CMakeFiles 49
+	$(CMAKE_COMMAND) -E cmake_progress_start /Volumes/data1/AI_Gerelateerd/github/muziek_gerelateerd/C64-SID-Studio/build/CMakeFiles 49
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/SIDStudio64_All.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/michiele/Downloads/SID-Studio-64-Ronde3C1-Fix-v0.3.5/build/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /Volumes/data1/AI_Gerelateerd/github/muziek_gerelateerd/C64-SID-Studio/build/CMakeFiles 0
 .PHONY : CMakeFiles/SIDStudio64_All.dir/rule
 
 # Convenience name for target.
@@ -401,7 +401,7 @@ SIDStudio64_All: CMakeFiles/SIDStudio64_All.dir/rule
 CMakeFiles/SIDStudio64_All.dir/codegen: CMakeFiles/SIDStudio64_Standalone.dir/all
 CMakeFiles/SIDStudio64_All.dir/codegen: CMakeFiles/SIDStudio64_AU.dir/all
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/SIDStudio64_All.dir/build.make CMakeFiles/SIDStudio64_All.dir/codegen
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/Users/michiele/Downloads/SID-Studio-64-Ronde3C1-Fix-v0.3.5/build/CMakeFiles --progress-num= "Finished codegen for target SIDStudio64_All"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/Volumes/data1/AI_Gerelateerd/github/muziek_gerelateerd/C64-SID-Studio/build/CMakeFiles --progress-num= "Finished codegen for target SIDStudio64_All"
 .PHONY : CMakeFiles/SIDStudio64_All.dir/codegen
 
 # clean rule for target.
@@ -417,14 +417,14 @@ CMakeFiles/SIDStudio64_Standalone.dir/all: CMakeFiles/sid64.dir/all
 CMakeFiles/SIDStudio64_Standalone.dir/all: CMakeFiles/SIDStudio64.dir/all
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/SIDStudio64_Standalone.dir/build.make CMakeFiles/SIDStudio64_Standalone.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/SIDStudio64_Standalone.dir/build.make CMakeFiles/SIDStudio64_Standalone.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/Users/michiele/Downloads/SID-Studio-64-Ronde3C1-Fix-v0.3.5/build/CMakeFiles --progress-num=35,36,37,38,39,40,41,42,43,44,45,46,47 "Built target SIDStudio64_Standalone"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/Volumes/data1/AI_Gerelateerd/github/muziek_gerelateerd/C64-SID-Studio/build/CMakeFiles --progress-num=35,36,37,38,39,40,41,42,43,44,45,46,47 "Built target SIDStudio64_Standalone"
 .PHONY : CMakeFiles/SIDStudio64_Standalone.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/SIDStudio64_Standalone.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/michiele/Downloads/SID-Studio-64-Ronde3C1-Fix-v0.3.5/build/CMakeFiles 36
+	$(CMAKE_COMMAND) -E cmake_progress_start /Volumes/data1/AI_Gerelateerd/github/muziek_gerelateerd/C64-SID-Studio/build/CMakeFiles 36
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/SIDStudio64_Standalone.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/michiele/Downloads/SID-Studio-64-Ronde3C1-Fix-v0.3.5/build/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /Volumes/data1/AI_Gerelateerd/github/muziek_gerelateerd/C64-SID-Studio/build/CMakeFiles 0
 .PHONY : CMakeFiles/SIDStudio64_Standalone.dir/rule
 
 # Convenience name for target.
@@ -434,7 +434,7 @@ SIDStudio64_Standalone: CMakeFiles/SIDStudio64_Standalone.dir/rule
 # codegen rule for target.
 CMakeFiles/SIDStudio64_Standalone.dir/codegen:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/SIDStudio64_Standalone.dir/build.make CMakeFiles/SIDStudio64_Standalone.dir/codegen
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/Users/michiele/Downloads/SID-Studio-64-Ronde3C1-Fix-v0.3.5/build/CMakeFiles --progress-num=35,36,37,38,39,40,41,42,43,44,45,46,47 "Finished codegen for target SIDStudio64_Standalone"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/Volumes/data1/AI_Gerelateerd/github/muziek_gerelateerd/C64-SID-Studio/build/CMakeFiles --progress-num=35,36,37,38,39,40,41,42,43,44,45,46,47 "Finished codegen for target SIDStudio64_Standalone"
 .PHONY : CMakeFiles/SIDStudio64_Standalone.dir/codegen
 
 # clean rule for target.
@@ -450,14 +450,14 @@ CMakeFiles/SIDStudio64_AU.dir/all: CMakeFiles/sid64.dir/all
 CMakeFiles/SIDStudio64_AU.dir/all: CMakeFiles/SIDStudio64.dir/all
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/SIDStudio64_AU.dir/build.make CMakeFiles/SIDStudio64_AU.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/SIDStudio64_AU.dir/build.make CMakeFiles/SIDStudio64_AU.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/Users/michiele/Downloads/SID-Studio-64-Ronde3C1-Fix-v0.3.5/build/CMakeFiles --progress-num=22,23,24,25,26,27,28,29,30,31,32,33,34 "Built target SIDStudio64_AU"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/Volumes/data1/AI_Gerelateerd/github/muziek_gerelateerd/C64-SID-Studio/build/CMakeFiles --progress-num=22,23,24,25,26,27,28,29,30,31,32,33,34 "Built target SIDStudio64_AU"
 .PHONY : CMakeFiles/SIDStudio64_AU.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/SIDStudio64_AU.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/michiele/Downloads/SID-Studio-64-Ronde3C1-Fix-v0.3.5/build/CMakeFiles 36
+	$(CMAKE_COMMAND) -E cmake_progress_start /Volumes/data1/AI_Gerelateerd/github/muziek_gerelateerd/C64-SID-Studio/build/CMakeFiles 36
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/SIDStudio64_AU.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/michiele/Downloads/SID-Studio-64-Ronde3C1-Fix-v0.3.5/build/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /Volumes/data1/AI_Gerelateerd/github/muziek_gerelateerd/C64-SID-Studio/build/CMakeFiles 0
 .PHONY : CMakeFiles/SIDStudio64_AU.dir/rule
 
 # Convenience name for target.
@@ -467,7 +467,7 @@ SIDStudio64_AU: CMakeFiles/SIDStudio64_AU.dir/rule
 # codegen rule for target.
 CMakeFiles/SIDStudio64_AU.dir/codegen:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/SIDStudio64_AU.dir/build.make CMakeFiles/SIDStudio64_AU.dir/codegen
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/Users/michiele/Downloads/SID-Studio-64-Ronde3C1-Fix-v0.3.5/build/CMakeFiles --progress-num=22,23,24,25,26,27,28,29,30,31,32,33,34 "Finished codegen for target SIDStudio64_AU"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/Volumes/data1/AI_Gerelateerd/github/muziek_gerelateerd/C64-SID-Studio/build/CMakeFiles --progress-num=22,23,24,25,26,27,28,29,30,31,32,33,34 "Finished codegen for target SIDStudio64_AU"
 .PHONY : CMakeFiles/SIDStudio64_AU.dir/codegen
 
 # clean rule for target.
@@ -482,7 +482,7 @@ CMakeFiles/SIDStudio64_AU.dir/clean:
 # No rule that depends on this can have commands that come from listfiles
 # because they might be regenerated.
 cmake_check_build_system:
-	$(CMAKE_COMMAND) -P /Users/michiele/Downloads/SID-Studio-64-Ronde3C1-Fix-v0.3.5/build/CMakeFiles/VerifyGlobs.cmake
+	$(CMAKE_COMMAND) -P /Volumes/data1/AI_Gerelateerd/github/muziek_gerelateerd/C64-SID-Studio/build/CMakeFiles/VerifyGlobs.cmake
 	$(CMAKE_COMMAND) -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles/Makefile.cmake 0
 .PHONY : cmake_check_build_system
 

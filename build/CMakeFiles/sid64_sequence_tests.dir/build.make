@@ -53,10 +53,10 @@ RM = /opt/homebrew/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /Users/michiele/Downloads/SID-Studio-64-Ronde3C1-Fix-v0.3.5
+CMAKE_SOURCE_DIR = /Volumes/data1/AI_Gerelateerd/github/muziek_gerelateerd/C64-SID-Studio
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /Users/michiele/Downloads/SID-Studio-64-Ronde3C1-Fix-v0.3.5/build
+CMAKE_BINARY_DIR = /Volumes/data1/AI_Gerelateerd/github/muziek_gerelateerd/C64-SID-Studio/build
 
 # Include any dependencies generated for this target.
 include CMakeFiles/sid64_sequence_tests.dir/depend.make
@@ -73,46 +73,46 @@ CMakeFiles/sid64_sequence_tests.dir/codegen:
 .PHONY : CMakeFiles/sid64_sequence_tests.dir/codegen
 
 CMakeFiles/sid64_sequence_tests.dir/tests/test_sequence.cpp.o: CMakeFiles/sid64_sequence_tests.dir/flags.make
-CMakeFiles/sid64_sequence_tests.dir/tests/test_sequence.cpp.o: /Users/michiele/Downloads/SID-Studio-64-Ronde3C1-Fix-v0.3.5/tests/test_sequence.cpp
+CMakeFiles/sid64_sequence_tests.dir/tests/test_sequence.cpp.o: /Volumes/data1/AI_Gerelateerd/github/muziek_gerelateerd/C64-SID-Studio/tests/test_sequence.cpp
 CMakeFiles/sid64_sequence_tests.dir/tests/test_sequence.cpp.o: CMakeFiles/sid64_sequence_tests.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/michiele/Downloads/SID-Studio-64-Ronde3C1-Fix-v0.3.5/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/sid64_sequence_tests.dir/tests/test_sequence.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/sid64_sequence_tests.dir/tests/test_sequence.cpp.o -MF CMakeFiles/sid64_sequence_tests.dir/tests/test_sequence.cpp.o.d -o CMakeFiles/sid64_sequence_tests.dir/tests/test_sequence.cpp.o -c /Users/michiele/Downloads/SID-Studio-64-Ronde3C1-Fix-v0.3.5/tests/test_sequence.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Volumes/data1/AI_Gerelateerd/github/muziek_gerelateerd/C64-SID-Studio/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/sid64_sequence_tests.dir/tests/test_sequence.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/sid64_sequence_tests.dir/tests/test_sequence.cpp.o -MF CMakeFiles/sid64_sequence_tests.dir/tests/test_sequence.cpp.o.d -o CMakeFiles/sid64_sequence_tests.dir/tests/test_sequence.cpp.o -c /Volumes/data1/AI_Gerelateerd/github/muziek_gerelateerd/C64-SID-Studio/tests/test_sequence.cpp
 
 CMakeFiles/sid64_sequence_tests.dir/tests/test_sequence.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/sid64_sequence_tests.dir/tests/test_sequence.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/michiele/Downloads/SID-Studio-64-Ronde3C1-Fix-v0.3.5/tests/test_sequence.cpp > CMakeFiles/sid64_sequence_tests.dir/tests/test_sequence.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Volumes/data1/AI_Gerelateerd/github/muziek_gerelateerd/C64-SID-Studio/tests/test_sequence.cpp > CMakeFiles/sid64_sequence_tests.dir/tests/test_sequence.cpp.i
 
 CMakeFiles/sid64_sequence_tests.dir/tests/test_sequence.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/sid64_sequence_tests.dir/tests/test_sequence.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/michiele/Downloads/SID-Studio-64-Ronde3C1-Fix-v0.3.5/tests/test_sequence.cpp -o CMakeFiles/sid64_sequence_tests.dir/tests/test_sequence.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Volumes/data1/AI_Gerelateerd/github/muziek_gerelateerd/C64-SID-Studio/tests/test_sequence.cpp -o CMakeFiles/sid64_sequence_tests.dir/tests/test_sequence.cpp.s
 
 CMakeFiles/sid64_sequence_tests.dir/src/StepSequencer.cpp.o: CMakeFiles/sid64_sequence_tests.dir/flags.make
-CMakeFiles/sid64_sequence_tests.dir/src/StepSequencer.cpp.o: /Users/michiele/Downloads/SID-Studio-64-Ronde3C1-Fix-v0.3.5/src/StepSequencer.cpp
+CMakeFiles/sid64_sequence_tests.dir/src/StepSequencer.cpp.o: /Volumes/data1/AI_Gerelateerd/github/muziek_gerelateerd/C64-SID-Studio/src/StepSequencer.cpp
 CMakeFiles/sid64_sequence_tests.dir/src/StepSequencer.cpp.o: CMakeFiles/sid64_sequence_tests.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/michiele/Downloads/SID-Studio-64-Ronde3C1-Fix-v0.3.5/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/sid64_sequence_tests.dir/src/StepSequencer.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/sid64_sequence_tests.dir/src/StepSequencer.cpp.o -MF CMakeFiles/sid64_sequence_tests.dir/src/StepSequencer.cpp.o.d -o CMakeFiles/sid64_sequence_tests.dir/src/StepSequencer.cpp.o -c /Users/michiele/Downloads/SID-Studio-64-Ronde3C1-Fix-v0.3.5/src/StepSequencer.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Volumes/data1/AI_Gerelateerd/github/muziek_gerelateerd/C64-SID-Studio/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/sid64_sequence_tests.dir/src/StepSequencer.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/sid64_sequence_tests.dir/src/StepSequencer.cpp.o -MF CMakeFiles/sid64_sequence_tests.dir/src/StepSequencer.cpp.o.d -o CMakeFiles/sid64_sequence_tests.dir/src/StepSequencer.cpp.o -c /Volumes/data1/AI_Gerelateerd/github/muziek_gerelateerd/C64-SID-Studio/src/StepSequencer.cpp
 
 CMakeFiles/sid64_sequence_tests.dir/src/StepSequencer.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/sid64_sequence_tests.dir/src/StepSequencer.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/michiele/Downloads/SID-Studio-64-Ronde3C1-Fix-v0.3.5/src/StepSequencer.cpp > CMakeFiles/sid64_sequence_tests.dir/src/StepSequencer.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Volumes/data1/AI_Gerelateerd/github/muziek_gerelateerd/C64-SID-Studio/src/StepSequencer.cpp > CMakeFiles/sid64_sequence_tests.dir/src/StepSequencer.cpp.i
 
 CMakeFiles/sid64_sequence_tests.dir/src/StepSequencer.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/sid64_sequence_tests.dir/src/StepSequencer.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/michiele/Downloads/SID-Studio-64-Ronde3C1-Fix-v0.3.5/src/StepSequencer.cpp -o CMakeFiles/sid64_sequence_tests.dir/src/StepSequencer.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Volumes/data1/AI_Gerelateerd/github/muziek_gerelateerd/C64-SID-Studio/src/StepSequencer.cpp -o CMakeFiles/sid64_sequence_tests.dir/src/StepSequencer.cpp.s
 
 CMakeFiles/sid64_sequence_tests.dir/src/Arpeggiator.cpp.o: CMakeFiles/sid64_sequence_tests.dir/flags.make
-CMakeFiles/sid64_sequence_tests.dir/src/Arpeggiator.cpp.o: /Users/michiele/Downloads/SID-Studio-64-Ronde3C1-Fix-v0.3.5/src/Arpeggiator.cpp
+CMakeFiles/sid64_sequence_tests.dir/src/Arpeggiator.cpp.o: /Volumes/data1/AI_Gerelateerd/github/muziek_gerelateerd/C64-SID-Studio/src/Arpeggiator.cpp
 CMakeFiles/sid64_sequence_tests.dir/src/Arpeggiator.cpp.o: CMakeFiles/sid64_sequence_tests.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/michiele/Downloads/SID-Studio-64-Ronde3C1-Fix-v0.3.5/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/sid64_sequence_tests.dir/src/Arpeggiator.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/sid64_sequence_tests.dir/src/Arpeggiator.cpp.o -MF CMakeFiles/sid64_sequence_tests.dir/src/Arpeggiator.cpp.o.d -o CMakeFiles/sid64_sequence_tests.dir/src/Arpeggiator.cpp.o -c /Users/michiele/Downloads/SID-Studio-64-Ronde3C1-Fix-v0.3.5/src/Arpeggiator.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Volumes/data1/AI_Gerelateerd/github/muziek_gerelateerd/C64-SID-Studio/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/sid64_sequence_tests.dir/src/Arpeggiator.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/sid64_sequence_tests.dir/src/Arpeggiator.cpp.o -MF CMakeFiles/sid64_sequence_tests.dir/src/Arpeggiator.cpp.o.d -o CMakeFiles/sid64_sequence_tests.dir/src/Arpeggiator.cpp.o -c /Volumes/data1/AI_Gerelateerd/github/muziek_gerelateerd/C64-SID-Studio/src/Arpeggiator.cpp
 
 CMakeFiles/sid64_sequence_tests.dir/src/Arpeggiator.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/sid64_sequence_tests.dir/src/Arpeggiator.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/michiele/Downloads/SID-Studio-64-Ronde3C1-Fix-v0.3.5/src/Arpeggiator.cpp > CMakeFiles/sid64_sequence_tests.dir/src/Arpeggiator.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Volumes/data1/AI_Gerelateerd/github/muziek_gerelateerd/C64-SID-Studio/src/Arpeggiator.cpp > CMakeFiles/sid64_sequence_tests.dir/src/Arpeggiator.cpp.i
 
 CMakeFiles/sid64_sequence_tests.dir/src/Arpeggiator.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/sid64_sequence_tests.dir/src/Arpeggiator.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/michiele/Downloads/SID-Studio-64-Ronde3C1-Fix-v0.3.5/src/Arpeggiator.cpp -o CMakeFiles/sid64_sequence_tests.dir/src/Arpeggiator.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Volumes/data1/AI_Gerelateerd/github/muziek_gerelateerd/C64-SID-Studio/src/Arpeggiator.cpp -o CMakeFiles/sid64_sequence_tests.dir/src/Arpeggiator.cpp.s
 
 # Object files for target sid64_sequence_tests
 sid64_sequence_tests_OBJECTS = \
@@ -128,7 +128,7 @@ sid64_sequence_tests: CMakeFiles/sid64_sequence_tests.dir/src/StepSequencer.cpp.
 sid64_sequence_tests: CMakeFiles/sid64_sequence_tests.dir/src/Arpeggiator.cpp.o
 sid64_sequence_tests: CMakeFiles/sid64_sequence_tests.dir/build.make
 sid64_sequence_tests: CMakeFiles/sid64_sequence_tests.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/Users/michiele/Downloads/SID-Studio-64-Ronde3C1-Fix-v0.3.5/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Linking CXX executable sid64_sequence_tests"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/Volumes/data1/AI_Gerelateerd/github/muziek_gerelateerd/C64-SID-Studio/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Linking CXX executable sid64_sequence_tests"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/sid64_sequence_tests.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -140,6 +140,6 @@ CMakeFiles/sid64_sequence_tests.dir/clean:
 .PHONY : CMakeFiles/sid64_sequence_tests.dir/clean
 
 CMakeFiles/sid64_sequence_tests.dir/depend:
-	cd /Users/michiele/Downloads/SID-Studio-64-Ronde3C1-Fix-v0.3.5/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /Users/michiele/Downloads/SID-Studio-64-Ronde3C1-Fix-v0.3.5 /Users/michiele/Downloads/SID-Studio-64-Ronde3C1-Fix-v0.3.5 /Users/michiele/Downloads/SID-Studio-64-Ronde3C1-Fix-v0.3.5/build /Users/michiele/Downloads/SID-Studio-64-Ronde3C1-Fix-v0.3.5/build /Users/michiele/Downloads/SID-Studio-64-Ronde3C1-Fix-v0.3.5/build/CMakeFiles/sid64_sequence_tests.dir/DependInfo.cmake "--color=$(COLOR)" sid64_sequence_tests
+	cd /Volumes/data1/AI_Gerelateerd/github/muziek_gerelateerd/C64-SID-Studio/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /Volumes/data1/AI_Gerelateerd/github/muziek_gerelateerd/C64-SID-Studio /Volumes/data1/AI_Gerelateerd/github/muziek_gerelateerd/C64-SID-Studio /Volumes/data1/AI_Gerelateerd/github/muziek_gerelateerd/C64-SID-Studio/build /Volumes/data1/AI_Gerelateerd/github/muziek_gerelateerd/C64-SID-Studio/build /Volumes/data1/AI_Gerelateerd/github/muziek_gerelateerd/C64-SID-Studio/build/CMakeFiles/sid64_sequence_tests.dir/DependInfo.cmake "--color=$(COLOR)" sid64_sequence_tests
 .PHONY : CMakeFiles/sid64_sequence_tests.dir/depend
 

@@ -1,7 +1,7 @@
 CMakeFiles/sid64_sequence_tests.dir/src/StepSequencer.cpp.o: \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/SDKSettings.json \
-  /Users/michiele/Downloads/SID-Studio-64-Ronde3C1-Fix-v0.3.5/src/StepSequencer.cpp \
-  /Users/michiele/Downloads/SID-Studio-64-Ronde3C1-Fix-v0.3.5/src/StepSequencer.hpp \
+  /Volumes/data1/AI_Gerelateerd/github/muziek_gerelateerd/C64-SID-Studio/src/StepSequencer.cpp \
+  /Volumes/data1/AI_Gerelateerd/github/muziek_gerelateerd/C64-SID-Studio/src/StepSequencer.hpp \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/array \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/equal.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/comp.h \

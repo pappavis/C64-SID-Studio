@@ -1,18 +1,18 @@
 CMakeFiles/SIDStudio64_AU.dir/_deps/juce-src/modules/juce_audio_plugin_client/juce_audio_plugin_client_AU_2.mm.o: \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/SDKSettings.json \
-  /Users/michiele/Downloads/SID-Studio-64-Ronde3C1-Fix-v0.3.5/build/_deps/juce-src/modules/juce_audio_plugin_client/juce_audio_plugin_client_AU_2.mm \
-  /Users/michiele/Downloads/SID-Studio-64-Ronde3C1-Fix-v0.3.5/build/_deps/juce-src/modules/juce_core/system/juce_TargetPlatform.h \
+  /Volumes/data1/AI_Gerelateerd/github/muziek_gerelateerd/C64-SID-Studio/build/_deps/juce-src/modules/juce_audio_plugin_client/juce_audio_plugin_client_AU_2.mm \
+  /Volumes/data1/AI_Gerelateerd/github/muziek_gerelateerd/C64-SID-Studio/build/_deps/juce-src/modules/juce_core/system/juce_TargetPlatform.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/TargetConditionals.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/AvailabilityMacros.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/AvailabilityVersions.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/Availability.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/AvailabilityInternal.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/AvailabilityInternalLegacy.h \
-  /Users/michiele/Downloads/SID-Studio-64-Ronde3C1-Fix-v0.3.5/build/_deps/juce-src/modules/juce_core/system/juce_CompilerWarnings.h \
-  /Users/michiele/Downloads/SID-Studio-64-Ronde3C1-Fix-v0.3.5/build/_deps/juce-src/modules/juce_audio_plugin_client/AU/AudioUnitSDK/AUBase.cpp \
-  /Users/michiele/Downloads/SID-Studio-64-Ronde3C1-Fix-v0.3.5/build/_deps/juce-src/modules/juce_audio_plugin_client/AU/AudioUnitSDK/AUBase.h \
-  /Users/michiele/Downloads/SID-Studio-64-Ronde3C1-Fix-v0.3.5/build/_deps/juce-src/modules/juce_audio_plugin_client/AU/AudioUnitSDK/AUBuffer.h \
-  /Users/michiele/Downloads/SID-Studio-64-Ronde3C1-Fix-v0.3.5/build/_deps/juce-src/modules/juce_audio_plugin_client/AU/AudioUnitSDK/AUUtility.h \
+  /Volumes/data1/AI_Gerelateerd/github/muziek_gerelateerd/C64-SID-Studio/build/_deps/juce-src/modules/juce_core/system/juce_CompilerWarnings.h \
+  /Volumes/data1/AI_Gerelateerd/github/muziek_gerelateerd/C64-SID-Studio/build/_deps/juce-src/modules/juce_audio_plugin_client/AU/AudioUnitSDK/AUBase.cpp \
+  /Volumes/data1/AI_Gerelateerd/github/muziek_gerelateerd/C64-SID-Studio/build/_deps/juce-src/modules/juce_audio_plugin_client/AU/AudioUnitSDK/AUBase.h \
+  /Volumes/data1/AI_Gerelateerd/github/muziek_gerelateerd/C64-SID-Studio/build/_deps/juce-src/modules/juce_audio_plugin_client/AU/AudioUnitSDK/AUBuffer.h \
+  /Volumes/data1/AI_Gerelateerd/github/muziek_gerelateerd/C64-SID-Studio/build/_deps/juce-src/modules/juce_audio_plugin_client/AU/AudioUnitSDK/AUUtility.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks/CoreAudioTypes.framework/Headers/CoreAudioTypes.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks/CoreAudioTypes.framework/Headers/CoreAudioBaseTypes.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/CFBase.h \
@@ -1408,12 +1408,12 @@ CMakeFiles/SIDStudio64_AU.dir/_deps/juce-src/modules/juce_audio_plugin_client/ju
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks/CoreMIDI.framework/Headers/MIDIServices.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks/AudioToolbox.framework/Headers/AUAudioUnitImplementation.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks/AudioToolbox.framework/Headers/AudioCodec.h \
-  /Users/michiele/Downloads/SID-Studio-64-Ronde3C1-Fix-v0.3.5/build/_deps/juce-src/modules/juce_audio_plugin_client/AU/AudioUnitSDK/AUInputElement.h \
-  /Users/michiele/Downloads/SID-Studio-64-Ronde3C1-Fix-v0.3.5/build/_deps/juce-src/modules/juce_audio_plugin_client/AU/AudioUnitSDK/AUScopeElement.h \
-  /Users/michiele/Downloads/SID-Studio-64-Ronde3C1-Fix-v0.3.5/build/_deps/juce-src/modules/juce_audio_plugin_client/AU/AudioUnitSDK/ComponentBase.h \
-  /Users/michiele/Downloads/SID-Studio-64-Ronde3C1-Fix-v0.3.5/build/_deps/juce-src/modules/juce_audio_plugin_client/AU/AudioUnitSDK/AUMIDIUtility.h \
-  /Users/michiele/Downloads/SID-Studio-64-Ronde3C1-Fix-v0.3.5/build/_deps/juce-src/modules/juce_audio_plugin_client/AU/AudioUnitSDK/AUOutputElement.h \
-  /Users/michiele/Downloads/SID-Studio-64-Ronde3C1-Fix-v0.3.5/build/_deps/juce-src/modules/juce_audio_plugin_client/AU/AudioUnitSDK/AUPlugInDispatch.h \
+  /Volumes/data1/AI_Gerelateerd/github/muziek_gerelateerd/C64-SID-Studio/build/_deps/juce-src/modules/juce_audio_plugin_client/AU/AudioUnitSDK/AUInputElement.h \
+  /Volumes/data1/AI_Gerelateerd/github/muziek_gerelateerd/C64-SID-Studio/build/_deps/juce-src/modules/juce_audio_plugin_client/AU/AudioUnitSDK/AUScopeElement.h \
+  /Volumes/data1/AI_Gerelateerd/github/muziek_gerelateerd/C64-SID-Studio/build/_deps/juce-src/modules/juce_audio_plugin_client/AU/AudioUnitSDK/ComponentBase.h \
+  /Volumes/data1/AI_Gerelateerd/github/muziek_gerelateerd/C64-SID-Studio/build/_deps/juce-src/modules/juce_audio_plugin_client/AU/AudioUnitSDK/AUMIDIUtility.h \
+  /Volumes/data1/AI_Gerelateerd/github/muziek_gerelateerd/C64-SID-Studio/build/_deps/juce-src/modules/juce_audio_plugin_client/AU/AudioUnitSDK/AUOutputElement.h \
+  /Volumes/data1/AI_Gerelateerd/github/muziek_gerelateerd/C64-SID-Studio/build/_deps/juce-src/modules/juce_audio_plugin_client/AU/AudioUnitSDK/AUPlugInDispatch.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/thread \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__thread/this_thread.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__thread/thread.h \
@@ -1461,14 +1461,14 @@ CMakeFiles/SIDStudio64_AU.dir/_deps/juce-src/modules/juce_audio_plugin_client/ju
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/cassert \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/assert.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/_static_assert.h \
-  /Users/michiele/Downloads/SID-Studio-64-Ronde3C1-Fix-v0.3.5/build/_deps/juce-src/modules/juce_audio_plugin_client/AU/AudioUnitSDK/AUBuffer.cpp \
-  /Users/michiele/Downloads/SID-Studio-64-Ronde3C1-Fix-v0.3.5/build/_deps/juce-src/modules/juce_audio_plugin_client/AU/AudioUnitSDK/AUBufferAllocator.cpp \
-  /Users/michiele/Downloads/SID-Studio-64-Ronde3C1-Fix-v0.3.5/build/_deps/juce-src/modules/juce_audio_plugin_client/AU/AudioUnitSDK/AUEffectBase.cpp \
-  /Users/michiele/Downloads/SID-Studio-64-Ronde3C1-Fix-v0.3.5/build/_deps/juce-src/modules/juce_audio_plugin_client/AU/AudioUnitSDK/AUEffectBase.h \
-  /Users/michiele/Downloads/SID-Studio-64-Ronde3C1-Fix-v0.3.5/build/_deps/juce-src/modules/juce_audio_plugin_client/AU/AudioUnitSDK/AUSilentTimeout.h \
-  /Users/michiele/Downloads/SID-Studio-64-Ronde3C1-Fix-v0.3.5/build/_deps/juce-src/modules/juce_audio_plugin_client/AU/AudioUnitSDK/AUInputElement.cpp \
-  /Users/michiele/Downloads/SID-Studio-64-Ronde3C1-Fix-v0.3.5/build/_deps/juce-src/modules/juce_audio_plugin_client/AU/AudioUnitSDK/AUMIDIBase.cpp \
-  /Users/michiele/Downloads/SID-Studio-64-Ronde3C1-Fix-v0.3.5/build/_deps/juce-src/modules/juce_audio_plugin_client/AU/AudioUnitSDK/AUMIDIBase.h \
+  /Volumes/data1/AI_Gerelateerd/github/muziek_gerelateerd/C64-SID-Studio/build/_deps/juce-src/modules/juce_audio_plugin_client/AU/AudioUnitSDK/AUBuffer.cpp \
+  /Volumes/data1/AI_Gerelateerd/github/muziek_gerelateerd/C64-SID-Studio/build/_deps/juce-src/modules/juce_audio_plugin_client/AU/AudioUnitSDK/AUBufferAllocator.cpp \
+  /Volumes/data1/AI_Gerelateerd/github/muziek_gerelateerd/C64-SID-Studio/build/_deps/juce-src/modules/juce_audio_plugin_client/AU/AudioUnitSDK/AUEffectBase.cpp \
+  /Volumes/data1/AI_Gerelateerd/github/muziek_gerelateerd/C64-SID-Studio/build/_deps/juce-src/modules/juce_audio_plugin_client/AU/AudioUnitSDK/AUEffectBase.h \
+  /Volumes/data1/AI_Gerelateerd/github/muziek_gerelateerd/C64-SID-Studio/build/_deps/juce-src/modules/juce_audio_plugin_client/AU/AudioUnitSDK/AUSilentTimeout.h \
+  /Volumes/data1/AI_Gerelateerd/github/muziek_gerelateerd/C64-SID-Studio/build/_deps/juce-src/modules/juce_audio_plugin_client/AU/AudioUnitSDK/AUInputElement.cpp \
+  /Volumes/data1/AI_Gerelateerd/github/muziek_gerelateerd/C64-SID-Studio/build/_deps/juce-src/modules/juce_audio_plugin_client/AU/AudioUnitSDK/AUMIDIBase.cpp \
+  /Volumes/data1/AI_Gerelateerd/github/muziek_gerelateerd/C64-SID-Studio/build/_deps/juce-src/modules/juce_audio_plugin_client/AU/AudioUnitSDK/AUMIDIBase.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks/CoreMIDI.framework/Headers/CoreMIDI.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks/CoreMIDI.framework/Headers/MIDISetup.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks/CoreMIDI.framework/Headers/MIDIThruConnection.h \
@@ -1487,11 +1487,11 @@ CMakeFiles/SIDStudio64_AU.dir/_deps/juce-src/modules/juce_audio_plugin_client/ju
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks/CoreMIDI.framework/Headers/MIDICIDeviceManager.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks/CoreMIDI.framework/Headers/MIDIUMPCIProfile.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks/CoreMIDI.framework/Headers/MIDICapabilityInquiry.h \
-  /Users/michiele/Downloads/SID-Studio-64-Ronde3C1-Fix-v0.3.5/build/_deps/juce-src/modules/juce_audio_plugin_client/AU/AudioUnitSDK/AUMIDIEffectBase.cpp \
-  /Users/michiele/Downloads/SID-Studio-64-Ronde3C1-Fix-v0.3.5/build/_deps/juce-src/modules/juce_audio_plugin_client/AU/AudioUnitSDK/AUMIDIEffectBase.h \
-  /Users/michiele/Downloads/SID-Studio-64-Ronde3C1-Fix-v0.3.5/build/_deps/juce-src/modules/juce_audio_plugin_client/AU/AudioUnitSDK/AUOutputElement.cpp \
-  /Users/michiele/Downloads/SID-Studio-64-Ronde3C1-Fix-v0.3.5/build/_deps/juce-src/modules/juce_audio_plugin_client/AU/AudioUnitSDK/AUPlugInDispatch.cpp \
-  /Users/michiele/Downloads/SID-Studio-64-Ronde3C1-Fix-v0.3.5/build/_deps/juce-src/modules/juce_audio_plugin_client/AU/AudioUnitSDK/AUScopeElement.cpp \
-  /Users/michiele/Downloads/SID-Studio-64-Ronde3C1-Fix-v0.3.5/build/_deps/juce-src/modules/juce_audio_plugin_client/AU/AudioUnitSDK/ComponentBase.cpp \
-  /Users/michiele/Downloads/SID-Studio-64-Ronde3C1-Fix-v0.3.5/build/_deps/juce-src/modules/juce_audio_plugin_client/AU/AudioUnitSDK/MusicDeviceBase.cpp \
-  /Users/michiele/Downloads/SID-Studio-64-Ronde3C1-Fix-v0.3.5/build/_deps/juce-src/modules/juce_audio_plugin_client/AU/AudioUnitSDK/MusicDeviceBase.h
+  /Volumes/data1/AI_Gerelateerd/github/muziek_gerelateerd/C64-SID-Studio/build/_deps/juce-src/modules/juce_audio_plugin_client/AU/AudioUnitSDK/AUMIDIEffectBase.cpp \
+  /Volumes/data1/AI_Gerelateerd/github/muziek_gerelateerd/C64-SID-Studio/build/_deps/juce-src/modules/juce_audio_plugin_client/AU/AudioUnitSDK/AUMIDIEffectBase.h \
+  /Volumes/data1/AI_Gerelateerd/github/muziek_gerelateerd/C64-SID-Studio/build/_deps/juce-src/modules/juce_audio_plugin_client/AU/AudioUnitSDK/AUOutputElement.cpp \
+  /Volumes/data1/AI_Gerelateerd/github/muziek_gerelateerd/C64-SID-Studio/build/_deps/juce-src/modules/juce_audio_plugin_client/AU/AudioUnitSDK/AUPlugInDispatch.cpp \
+  /Volumes/data1/AI_Gerelateerd/github/muziek_gerelateerd/C64-SID-Studio/build/_deps/juce-src/modules/juce_audio_plugin_client/AU/AudioUnitSDK/AUScopeElement.cpp \
+  /Volumes/data1/AI_Gerelateerd/github/muziek_gerelateerd/C64-SID-Studio/build/_deps/juce-src/modules/juce_audio_plugin_client/AU/AudioUnitSDK/ComponentBase.cpp \
+  /Volumes/data1/AI_Gerelateerd/github/muziek_gerelateerd/C64-SID-Studio/build/_deps/juce-src/modules/juce_audio_plugin_client/AU/AudioUnitSDK/MusicDeviceBase.cpp \
+  /Volumes/data1/AI_Gerelateerd/github/muziek_gerelateerd/C64-SID-Studio/build/_deps/juce-src/modules/juce_audio_plugin_client/AU/AudioUnitSDK/MusicDeviceBase.h

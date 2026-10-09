@@ -53,10 +53,10 @@ RM = /opt/homebrew/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /Users/michiele/Downloads/SID-Studio-64-Ronde3C1-Fix-v0.3.5
+CMAKE_SOURCE_DIR = /Volumes/data1/AI_Gerelateerd/github/muziek_gerelateerd/C64-SID-Studio
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /Users/michiele/Downloads/SID-Studio-64-Ronde3C1-Fix-v0.3.5/build
+CMAKE_BINARY_DIR = /Volumes/data1/AI_Gerelateerd/github/muziek_gerelateerd/C64-SID-Studio/build
 
 # Utility rule file for SIDStudio64_All.
 
@@ -81,6 +81,6 @@ CMakeFiles/SIDStudio64_All.dir/clean:
 .PHONY : CMakeFiles/SIDStudio64_All.dir/clean
 
 CMakeFiles/SIDStudio64_All.dir/depend:
-	cd /Users/michiele/Downloads/SID-Studio-64-Ronde3C1-Fix-v0.3.5/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /Users/michiele/Downloads/SID-Studio-64-Ronde3C1-Fix-v0.3.5 /Users/michiele/Downloads/SID-Studio-64-Ronde3C1-Fix-v0.3.5 /Users/michiele/Downloads/SID-Studio-64-Ronde3C1-Fix-v0.3.5/build /Users/michiele/Downloads/SID-Studio-64-Ronde3C1-Fix-v0.3.5/build /Users/michiele/Downloads/SID-Studio-64-Ronde3C1-Fix-v0.3.5/build/CMakeFiles/SIDStudio64_All.dir/DependInfo.cmake "--color=$(COLOR)" SIDStudio64_All
+	cd /Volumes/data1/AI_Gerelateerd/github/muziek_gerelateerd/C64-SID-Studio/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /Volumes/data1/AI_Gerelateerd/github/muziek_gerelateerd/C64-SID-Studio /Volumes/data1/AI_Gerelateerd/github/muziek_gerelateerd/C64-SID-Studio /Volumes/data1/AI_Gerelateerd/github/muziek_gerelateerd/C64-SID-Studio/build /Volumes/data1/AI_Gerelateerd/github/muziek_gerelateerd/C64-SID-Studio/build /Volumes/data1/AI_Gerelateerd/github/muziek_gerelateerd/C64-SID-Studio/build/CMakeFiles/SIDStudio64_All.dir/DependInfo.cmake "--color=$(COLOR)" SIDStudio64_All
 .PHONY : CMakeFiles/SIDStudio64_All.dir/depend
 

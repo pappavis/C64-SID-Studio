@@ -4,7 +4,7 @@
 # compile CXX with /usr/bin/c++
 CXX_DEFINES = 
 
-CXX_INCLUDES = -I/Users/michiele/Downloads/SID-Studio-64-Ronde3C1-Fix-v0.3.5/src
+CXX_INCLUDES = -I/Volumes/data1/AI_Gerelateerd/github/muziek_gerelateerd/C64-SID-Studio/src
 
 CXX_FLAGSarm64 = -O3 -DNDEBUG -std=gnu++17 -arch arm64
 

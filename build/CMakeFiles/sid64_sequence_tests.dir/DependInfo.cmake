@@ -8,9 +8,9 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/Users/michiele/Downloads/SID-Studio-64-Ronde3C1-Fix-v0.3.5/src/Arpeggiator.cpp" "CMakeFiles/sid64_sequence_tests.dir/src/Arpeggiator.cpp.o" "gcc" "CMakeFiles/sid64_sequence_tests.dir/src/Arpeggiator.cpp.o.d"
-  "/Users/michiele/Downloads/SID-Studio-64-Ronde3C1-Fix-v0.3.5/src/StepSequencer.cpp" "CMakeFiles/sid64_sequence_tests.dir/src/StepSequencer.cpp.o" "gcc" "CMakeFiles/sid64_sequence_tests.dir/src/StepSequencer.cpp.o.d"
-  "/Users/michiele/Downloads/SID-Studio-64-Ronde3C1-Fix-v0.3.5/tests/test_sequence.cpp" "CMakeFiles/sid64_sequence_tests.dir/tests/test_sequence.cpp.o" "gcc" "CMakeFiles/sid64_sequence_tests.dir/tests/test_sequence.cpp.o.d"
+  "/Volumes/data1/AI_Gerelateerd/github/muziek_gerelateerd/C64-SID-Studio/src/Arpeggiator.cpp" "CMakeFiles/sid64_sequence_tests.dir/src/Arpeggiator.cpp.o" "gcc" "CMakeFiles/sid64_sequence_tests.dir/src/Arpeggiator.cpp.o.d"
+  "/Volumes/data1/AI_Gerelateerd/github/muziek_gerelateerd/C64-SID-Studio/src/StepSequencer.cpp" "CMakeFiles/sid64_sequence_tests.dir/src/StepSequencer.cpp.o" "gcc" "CMakeFiles/sid64_sequence_tests.dir/src/StepSequencer.cpp.o.d"
+  "/Volumes/data1/AI_Gerelateerd/github/muziek_gerelateerd/C64-SID-Studio/tests/test_sequence.cpp" "CMakeFiles/sid64_sequence_tests.dir/tests/test_sequence.cpp.o" "gcc" "CMakeFiles/sid64_sequence_tests.dir/tests/test_sequence.cpp.o.d"
   )
 
 # Targets to which this target links which contain Fortran sources.

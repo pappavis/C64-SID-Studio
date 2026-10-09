@@ -1,4 +1,4 @@
-# Install script for directory: /Users/michiele/Downloads/SID-Studio-64-Ronde3C1-Fix-v0.3.5
+# Install script for directory: /Volumes/data1/AI_Gerelateerd/github/muziek_gerelateerd/C64-SID-Studio
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -39,13 +39,13 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("/Users/michiele/Downloads/SID-Studio-64-Ronde3C1-Fix-v0.3.5/build/_deps/juce-build/cmake_install.cmake")
+  include("/Volumes/data1/AI_Gerelateerd/github/muziek_gerelateerd/C64-SID-Studio/build/_deps/juce-build/cmake_install.cmake")
 endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
 if(CMAKE_INSTALL_LOCAL_ONLY)
-  file(WRITE "/Users/michiele/Downloads/SID-Studio-64-Ronde3C1-Fix-v0.3.5/build/install_local_manifest.txt"
+  file(WRITE "/Volumes/data1/AI_Gerelateerd/github/muziek_gerelateerd/C64-SID-Studio/build/install_local_manifest.txt"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
 endif()
 if(CMAKE_INSTALL_COMPONENT)
@@ -61,6 +61,6 @@ else()
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
-  file(WRITE "/Users/michiele/Downloads/SID-Studio-64-Ronde3C1-Fix-v0.3.5/build/${CMAKE_INSTALL_MANIFEST}"
+  file(WRITE "/Volumes/data1/AI_Gerelateerd/github/muziek_gerelateerd/C64-SID-Studio/build/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
 endif()

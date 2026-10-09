@@ -1,7 +1,7 @@
 CMakeFiles/SIDStudio64.dir/src/Arpeggiator.cpp.o: \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/SDKSettings.json \
-  /Users/michiele/Downloads/SID-Studio-64-Ronde3C1-Fix-v0.3.5/src/Arpeggiator.cpp \
-  /Users/michiele/Downloads/SID-Studio-64-Ronde3C1-Fix-v0.3.5/src/Arpeggiator.hpp \
+  /Volumes/data1/AI_Gerelateerd/github/muziek_gerelateerd/C64-SID-Studio/src/Arpeggiator.cpp \
+  /Volumes/data1/AI_Gerelateerd/github/muziek_gerelateerd/C64-SID-Studio/src/Arpeggiator.hpp \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/array \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/equal.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/comp.h \

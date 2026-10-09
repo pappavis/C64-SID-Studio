@@ -8,7 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/Users/michiele/Downloads/SID-Studio-64-Ronde3C1-Fix-v0.3.5/src/SidEngine.cpp" "CMakeFiles/sid64.dir/src/SidEngine.cpp.o" "gcc" "CMakeFiles/sid64.dir/src/SidEngine.cpp.o.d"
+  "/Volumes/data1/AI_Gerelateerd/github/muziek_gerelateerd/C64-SID-Studio/src/SidEngine.cpp" "CMakeFiles/sid64.dir/src/SidEngine.cpp.o" "gcc" "CMakeFiles/sid64.dir/src/SidEngine.cpp.o.d"
   )
 
 # Targets to which this target links which contain Fortran sources.

@@ -1,19 +1,19 @@
 CMakeFiles/SIDStudio64.dir/_deps/juce-src/modules/juce_graphics/juce_graphics_Sheenbidi.c.o: \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/SDKSettings.json \
-  /Users/michiele/Downloads/SID-Studio-64-Ronde3C1-Fix-v0.3.5/build/_deps/juce-src/modules/juce_graphics/juce_graphics_Sheenbidi.c \
-  /Users/michiele/Downloads/SID-Studio-64-Ronde3C1-Fix-v0.3.5/build/_deps/juce-src/modules/juce_core/system/juce_CompilerWarnings.h \
-  /Users/michiele/Downloads/SID-Studio-64-Ronde3C1-Fix-v0.3.5/build/_deps/juce-src/modules/juce_core/system/juce_TargetPlatform.h \
+  /Volumes/data1/AI_Gerelateerd/github/muziek_gerelateerd/C64-SID-Studio/build/_deps/juce-src/modules/juce_graphics/juce_graphics_Sheenbidi.c \
+  /Volumes/data1/AI_Gerelateerd/github/muziek_gerelateerd/C64-SID-Studio/build/_deps/juce-src/modules/juce_core/system/juce_CompilerWarnings.h \
+  /Volumes/data1/AI_Gerelateerd/github/muziek_gerelateerd/C64-SID-Studio/build/_deps/juce-src/modules/juce_core/system/juce_TargetPlatform.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/TargetConditionals.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/AvailabilityMacros.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/AvailabilityVersions.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/Availability.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/AvailabilityInternal.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/AvailabilityInternalLegacy.h \
-  /Users/michiele/Downloads/SID-Studio-64-Ronde3C1-Fix-v0.3.5/build/_deps/juce-src/modules/juce_graphics/unicode/sheenbidi/Source/SheenBidi.c \
-  /Users/michiele/Downloads/SID-Studio-64-Ronde3C1-Fix-v0.3.5/build/_deps/juce-src/modules/juce_graphics/unicode/sheenbidi/Headers/SBConfig.h \
-  /Users/michiele/Downloads/SID-Studio-64-Ronde3C1-Fix-v0.3.5/build/_deps/juce-src/modules/juce_graphics/unicode/sheenbidi/Headers/SheenBidi.h \
-  /Users/michiele/Downloads/SID-Studio-64-Ronde3C1-Fix-v0.3.5/build/_deps/juce-src/modules/juce_graphics/unicode/sheenbidi/Headers/SBAlgorithm.h \
-  /Users/michiele/Downloads/SID-Studio-64-Ronde3C1-Fix-v0.3.5/build/_deps/juce-src/modules/juce_graphics/unicode/sheenbidi/Headers/SBBase.h \
+  /Volumes/data1/AI_Gerelateerd/github/muziek_gerelateerd/C64-SID-Studio/build/_deps/juce-src/modules/juce_graphics/unicode/sheenbidi/Source/SheenBidi.c \
+  /Volumes/data1/AI_Gerelateerd/github/muziek_gerelateerd/C64-SID-Studio/build/_deps/juce-src/modules/juce_graphics/unicode/sheenbidi/Headers/SBConfig.h \
+  /Volumes/data1/AI_Gerelateerd/github/muziek_gerelateerd/C64-SID-Studio/build/_deps/juce-src/modules/juce_graphics/unicode/sheenbidi/Headers/SheenBidi.h \
+  /Volumes/data1/AI_Gerelateerd/github/muziek_gerelateerd/C64-SID-Studio/build/_deps/juce-src/modules/juce_graphics/unicode/sheenbidi/Headers/SBAlgorithm.h \
+  /Volumes/data1/AI_Gerelateerd/github/muziek_gerelateerd/C64-SID-Studio/build/_deps/juce-src/modules/juce_graphics/unicode/sheenbidi/Headers/SBBase.h \
   /Volumes/data1/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/21/include/stddef.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/stddef.h \
   /Volumes/data1/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/21/include/__stddef_header_macro.h \
@@ -45,22 +45,22 @@ CMakeFiles/SIDStudio64.dir/_deps/juce-src/modules/juce_graphics/juce_graphics_Sh
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/sys/_types/_uintptr_t.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/_types/_intmax_t.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/_types/_uintmax_t.h \
-  /Users/michiele/Downloads/SID-Studio-64-Ronde3C1-Fix-v0.3.5/build/_deps/juce-src/modules/juce_graphics/unicode/sheenbidi/Headers/SBBidiType.h \
-  /Users/michiele/Downloads/SID-Studio-64-Ronde3C1-Fix-v0.3.5/build/_deps/juce-src/modules/juce_graphics/unicode/sheenbidi/Headers/SBCodepointSequence.h \
-  /Users/michiele/Downloads/SID-Studio-64-Ronde3C1-Fix-v0.3.5/build/_deps/juce-src/modules/juce_graphics/unicode/sheenbidi/Headers/SBCodepoint.h \
-  /Users/michiele/Downloads/SID-Studio-64-Ronde3C1-Fix-v0.3.5/build/_deps/juce-src/modules/juce_graphics/unicode/sheenbidi/Headers/SBGeneralCategory.h \
-  /Users/michiele/Downloads/SID-Studio-64-Ronde3C1-Fix-v0.3.5/build/_deps/juce-src/modules/juce_graphics/unicode/sheenbidi/Headers/SBScript.h \
-  /Users/michiele/Downloads/SID-Studio-64-Ronde3C1-Fix-v0.3.5/build/_deps/juce-src/modules/juce_graphics/unicode/sheenbidi/Headers/SBParagraph.h \
-  /Users/michiele/Downloads/SID-Studio-64-Ronde3C1-Fix-v0.3.5/build/_deps/juce-src/modules/juce_graphics/unicode/sheenbidi/Headers/SBLine.h \
-  /Users/michiele/Downloads/SID-Studio-64-Ronde3C1-Fix-v0.3.5/build/_deps/juce-src/modules/juce_graphics/unicode/sheenbidi/Headers/SBRun.h \
-  /Users/michiele/Downloads/SID-Studio-64-Ronde3C1-Fix-v0.3.5/build/_deps/juce-src/modules/juce_graphics/unicode/sheenbidi/Headers/SBMirrorLocator.h \
-  /Users/michiele/Downloads/SID-Studio-64-Ronde3C1-Fix-v0.3.5/build/_deps/juce-src/modules/juce_graphics/unicode/sheenbidi/Headers/SBScriptLocator.h \
-  /Users/michiele/Downloads/SID-Studio-64-Ronde3C1-Fix-v0.3.5/build/_deps/juce-src/modules/juce_graphics/unicode/sheenbidi/Source/BidiChain.c \
-  /Users/michiele/Downloads/SID-Studio-64-Ronde3C1-Fix-v0.3.5/build/_deps/juce-src/modules/juce_graphics/unicode/sheenbidi/Source/SBBase.h \
-  /Users/michiele/Downloads/SID-Studio-64-Ronde3C1-Fix-v0.3.5/build/_deps/juce-src/modules/juce_graphics/unicode/sheenbidi/Source/BidiChain.h \
-  /Users/michiele/Downloads/SID-Studio-64-Ronde3C1-Fix-v0.3.5/build/_deps/juce-src/modules/juce_graphics/unicode/sheenbidi/Source/BidiTypeLookup.c \
-  /Users/michiele/Downloads/SID-Studio-64-Ronde3C1-Fix-v0.3.5/build/_deps/juce-src/modules/juce_graphics/unicode/sheenbidi/Source/BidiTypeLookup.h \
-  /Users/michiele/Downloads/SID-Studio-64-Ronde3C1-Fix-v0.3.5/build/_deps/juce-src/modules/juce_graphics/unicode/sheenbidi/Source/BracketQueue.c \
+  /Volumes/data1/AI_Gerelateerd/github/muziek_gerelateerd/C64-SID-Studio/build/_deps/juce-src/modules/juce_graphics/unicode/sheenbidi/Headers/SBBidiType.h \
+  /Volumes/data1/AI_Gerelateerd/github/muziek_gerelateerd/C64-SID-Studio/build/_deps/juce-src/modules/juce_graphics/unicode/sheenbidi/Headers/SBCodepointSequence.h \
+  /Volumes/data1/AI_Gerelateerd/github/muziek_gerelateerd/C64-SID-Studio/build/_deps/juce-src/modules/juce_graphics/unicode/sheenbidi/Headers/SBCodepoint.h \
+  /Volumes/data1/AI_Gerelateerd/github/muziek_gerelateerd/C64-SID-Studio/build/_deps/juce-src/modules/juce_graphics/unicode/sheenbidi/Headers/SBGeneralCategory.h \
+  /Volumes/data1/AI_Gerelateerd/github/muziek_gerelateerd/C64-SID-Studio/build/_deps/juce-src/modules/juce_graphics/unicode/sheenbidi/Headers/SBScript.h \
+  /Volumes/data1/AI_Gerelateerd/github/muziek_gerelateerd/C64-SID-Studio/build/_deps/juce-src/modules/juce_graphics/unicode/sheenbidi/Headers/SBParagraph.h \
+  /Volumes/data1/AI_Gerelateerd/github/muziek_gerelateerd/C64-SID-Studio/build/_deps/juce-src/modules/juce_graphics/unicode/sheenbidi/Headers/SBLine.h \
+  /Volumes/data1/AI_Gerelateerd/github/muziek_gerelateerd/C64-SID-Studio/build/_deps/juce-src/modules/juce_graphics/unicode/sheenbidi/Headers/SBRun.h \
+  /Volumes/data1/AI_Gerelateerd/github/muziek_gerelateerd/C64-SID-Studio/build/_deps/juce-src/modules/juce_graphics/unicode/sheenbidi/Headers/SBMirrorLocator.h \
+  /Volumes/data1/AI_Gerelateerd/github/muziek_gerelateerd/C64-SID-Studio/build/_deps/juce-src/modules/juce_graphics/unicode/sheenbidi/Headers/SBScriptLocator.h \
+  /Volumes/data1/AI_Gerelateerd/github/muziek_gerelateerd/C64-SID-Studio/build/_deps/juce-src/modules/juce_graphics/unicode/sheenbidi/Source/BidiChain.c \
+  /Volumes/data1/AI_Gerelateerd/github/muziek_gerelateerd/C64-SID-Studio/build/_deps/juce-src/modules/juce_graphics/unicode/sheenbidi/Source/SBBase.h \
+  /Volumes/data1/AI_Gerelateerd/github/muziek_gerelateerd/C64-SID-Studio/build/_deps/juce-src/modules/juce_graphics/unicode/sheenbidi/Source/BidiChain.h \
+  /Volumes/data1/AI_Gerelateerd/github/muziek_gerelateerd/C64-SID-Studio/build/_deps/juce-src/modules/juce_graphics/unicode/sheenbidi/Source/BidiTypeLookup.c \
+  /Volumes/data1/AI_Gerelateerd/github/muziek_gerelateerd/C64-SID-Studio/build/_deps/juce-src/modules/juce_graphics/unicode/sheenbidi/Source/BidiTypeLookup.h \
+  /Volumes/data1/AI_Gerelateerd/github/muziek_gerelateerd/C64-SID-Studio/build/_deps/juce-src/modules/juce_graphics/unicode/sheenbidi/Source/BracketQueue.c \
   /Volumes/data1/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/21/include/__stddef_rsize_t.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/stdlib.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/_stdlib.h \
@@ -110,41 +110,41 @@ CMakeFiles/SIDStudio64.dir/_deps/juce-src/modules/juce_graphics/juce_graphics_Sh
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/_abort.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/sys/_types/_dev_t.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/sys/_types/_mode_t.h \
-  /Users/michiele/Downloads/SID-Studio-64-Ronde3C1-Fix-v0.3.5/build/_deps/juce-src/modules/juce_graphics/unicode/sheenbidi/Source/SBAssert.h \
+  /Volumes/data1/AI_Gerelateerd/github/muziek_gerelateerd/C64-SID-Studio/build/_deps/juce-src/modules/juce_graphics/unicode/sheenbidi/Source/SBAssert.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/assert.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/_static_assert.h \
-  /Users/michiele/Downloads/SID-Studio-64-Ronde3C1-Fix-v0.3.5/build/_deps/juce-src/modules/juce_graphics/unicode/sheenbidi/Source/BracketQueue.h \
-  /Users/michiele/Downloads/SID-Studio-64-Ronde3C1-Fix-v0.3.5/build/_deps/juce-src/modules/juce_graphics/unicode/sheenbidi/Source/GeneralCategoryLookup.c \
-  /Users/michiele/Downloads/SID-Studio-64-Ronde3C1-Fix-v0.3.5/build/_deps/juce-src/modules/juce_graphics/unicode/sheenbidi/Source/GeneralCategoryLookup.h \
-  /Users/michiele/Downloads/SID-Studio-64-Ronde3C1-Fix-v0.3.5/build/_deps/juce-src/modules/juce_graphics/unicode/sheenbidi/Source/IsolatingRun.c \
-  /Users/michiele/Downloads/SID-Studio-64-Ronde3C1-Fix-v0.3.5/build/_deps/juce-src/modules/juce_graphics/unicode/sheenbidi/Source/BracketType.h \
-  /Users/michiele/Downloads/SID-Studio-64-Ronde3C1-Fix-v0.3.5/build/_deps/juce-src/modules/juce_graphics/unicode/sheenbidi/Source/LevelRun.h \
-  /Users/michiele/Downloads/SID-Studio-64-Ronde3C1-Fix-v0.3.5/build/_deps/juce-src/modules/juce_graphics/unicode/sheenbidi/Source/RunExtrema.h \
-  /Users/michiele/Downloads/SID-Studio-64-Ronde3C1-Fix-v0.3.5/build/_deps/juce-src/modules/juce_graphics/unicode/sheenbidi/Source/RunKind.h \
-  /Users/michiele/Downloads/SID-Studio-64-Ronde3C1-Fix-v0.3.5/build/_deps/juce-src/modules/juce_graphics/unicode/sheenbidi/Source/PairingLookup.h \
-  /Users/michiele/Downloads/SID-Studio-64-Ronde3C1-Fix-v0.3.5/build/_deps/juce-src/modules/juce_graphics/unicode/sheenbidi/Source/SBLog.h \
-  /Users/michiele/Downloads/SID-Studio-64-Ronde3C1-Fix-v0.3.5/build/_deps/juce-src/modules/juce_graphics/unicode/sheenbidi/Source/IsolatingRun.h \
-  /Users/michiele/Downloads/SID-Studio-64-Ronde3C1-Fix-v0.3.5/build/_deps/juce-src/modules/juce_graphics/unicode/sheenbidi/Source/SBCodepointSequence.h \
-  /Users/michiele/Downloads/SID-Studio-64-Ronde3C1-Fix-v0.3.5/build/_deps/juce-src/modules/juce_graphics/unicode/sheenbidi/Source/LevelRun.c \
-  /Users/michiele/Downloads/SID-Studio-64-Ronde3C1-Fix-v0.3.5/build/_deps/juce-src/modules/juce_graphics/unicode/sheenbidi/Source/PairingLookup.c \
-  /Users/michiele/Downloads/SID-Studio-64-Ronde3C1-Fix-v0.3.5/build/_deps/juce-src/modules/juce_graphics/unicode/sheenbidi/Source/RunQueue.c \
-  /Users/michiele/Downloads/SID-Studio-64-Ronde3C1-Fix-v0.3.5/build/_deps/juce-src/modules/juce_graphics/unicode/sheenbidi/Source/RunQueue.h \
-  /Users/michiele/Downloads/SID-Studio-64-Ronde3C1-Fix-v0.3.5/build/_deps/juce-src/modules/juce_graphics/unicode/sheenbidi/Source/SBAlgorithm.c \
-  /Users/michiele/Downloads/SID-Studio-64-Ronde3C1-Fix-v0.3.5/build/_deps/juce-src/modules/juce_graphics/unicode/sheenbidi/Source/SBParagraph.h \
-  /Users/michiele/Downloads/SID-Studio-64-Ronde3C1-Fix-v0.3.5/build/_deps/juce-src/modules/juce_graphics/unicode/sheenbidi/Source/SBAlgorithm.h \
-  /Users/michiele/Downloads/SID-Studio-64-Ronde3C1-Fix-v0.3.5/build/_deps/juce-src/modules/juce_graphics/unicode/sheenbidi/Source/SBBase.c \
-  /Users/michiele/Downloads/SID-Studio-64-Ronde3C1-Fix-v0.3.5/build/_deps/juce-src/modules/juce_graphics/unicode/sheenbidi/Source/ScriptLookup.h \
-  /Users/michiele/Downloads/SID-Studio-64-Ronde3C1-Fix-v0.3.5/build/_deps/juce-src/modules/juce_graphics/unicode/sheenbidi/Source/SBCodepointSequence.c \
-  /Users/michiele/Downloads/SID-Studio-64-Ronde3C1-Fix-v0.3.5/build/_deps/juce-src/modules/juce_graphics/unicode/sheenbidi/Source/SBLine.c \
-  /Users/michiele/Downloads/SID-Studio-64-Ronde3C1-Fix-v0.3.5/build/_deps/juce-src/modules/juce_graphics/unicode/sheenbidi/Source/SBLine.h \
-  /Users/michiele/Downloads/SID-Studio-64-Ronde3C1-Fix-v0.3.5/build/_deps/juce-src/modules/juce_graphics/unicode/sheenbidi/Source/SBLog.c \
-  /Users/michiele/Downloads/SID-Studio-64-Ronde3C1-Fix-v0.3.5/build/_deps/juce-src/modules/juce_graphics/unicode/sheenbidi/Source/SBMirrorLocator.c \
-  /Users/michiele/Downloads/SID-Studio-64-Ronde3C1-Fix-v0.3.5/build/_deps/juce-src/modules/juce_graphics/unicode/sheenbidi/Source/SBMirrorLocator.h \
-  /Users/michiele/Downloads/SID-Studio-64-Ronde3C1-Fix-v0.3.5/build/_deps/juce-src/modules/juce_graphics/unicode/sheenbidi/Source/SBParagraph.c \
-  /Users/michiele/Downloads/SID-Studio-64-Ronde3C1-Fix-v0.3.5/build/_deps/juce-src/modules/juce_graphics/unicode/sheenbidi/Source/StatusStack.h \
-  /Users/michiele/Downloads/SID-Studio-64-Ronde3C1-Fix-v0.3.5/build/_deps/juce-src/modules/juce_graphics/unicode/sheenbidi/Source/SBScriptLocator.c \
-  /Users/michiele/Downloads/SID-Studio-64-Ronde3C1-Fix-v0.3.5/build/_deps/juce-src/modules/juce_graphics/unicode/sheenbidi/Source/ScriptStack.h \
-  /Users/michiele/Downloads/SID-Studio-64-Ronde3C1-Fix-v0.3.5/build/_deps/juce-src/modules/juce_graphics/unicode/sheenbidi/Source/SBScriptLocator.h \
-  /Users/michiele/Downloads/SID-Studio-64-Ronde3C1-Fix-v0.3.5/build/_deps/juce-src/modules/juce_graphics/unicode/sheenbidi/Source/ScriptLookup.c \
-  /Users/michiele/Downloads/SID-Studio-64-Ronde3C1-Fix-v0.3.5/build/_deps/juce-src/modules/juce_graphics/unicode/sheenbidi/Source/ScriptStack.c \
-  /Users/michiele/Downloads/SID-Studio-64-Ronde3C1-Fix-v0.3.5/build/_deps/juce-src/modules/juce_graphics/unicode/sheenbidi/Source/StatusStack.c
+  /Volumes/data1/AI_Gerelateerd/github/muziek_gerelateerd/C64-SID-Studio/build/_deps/juce-src/modules/juce_graphics/unicode/sheenbidi/Source/BracketQueue.h \
+  /Volumes/data1/AI_Gerelateerd/github/muziek_gerelateerd/C64-SID-Studio/build/_deps/juce-src/modules/juce_graphics/unicode/sheenbidi/Source/GeneralCategoryLookup.c \
+  /Volumes/data1/AI_Gerelateerd/github/muziek_gerelateerd/C64-SID-Studio/build/_deps/juce-src/modules/juce_graphics/unicode/sheenbidi/Source/GeneralCategoryLookup.h \
+  /Volumes/data1/AI_Gerelateerd/github/muziek_gerelateerd/C64-SID-Studio/build/_deps/juce-src/modules/juce_graphics/unicode/sheenbidi/Source/IsolatingRun.c \
+  /Volumes/data1/AI_Gerelateerd/github/muziek_gerelateerd/C64-SID-Studio/build/_deps/juce-src/modules/juce_graphics/unicode/sheenbidi/Source/BracketType.h \
+  /Volumes/data1/AI_Gerelateerd/github/muziek_gerelateerd/C64-SID-Studio/build/_deps/juce-src/modules/juce_graphics/unicode/sheenbidi/Source/LevelRun.h \
+  /Volumes/data1/AI_Gerelateerd/github/muziek_gerelateerd/C64-SID-Studio/build/_deps/juce-src/modules/juce_graphics/unicode/sheenbidi/Source/RunExtrema.h \
+  /Volumes/data1/AI_Gerelateerd/github/muziek_gerelateerd/C64-SID-Studio/build/_deps/juce-src/modules/juce_graphics/unicode/sheenbidi/Source/RunKind.h \
+  /Volumes/data1/AI_Gerelateerd/github/muziek_gerelateerd/C64-SID-Studio/build/_deps/juce-src/modules/juce_graphics/unicode/sheenbidi/Source/PairingLookup.h \
+  /Volumes/data1/AI_Gerelateerd/github/muziek_gerelateerd/C64-SID-Studio/build/_deps/juce-src/modules/juce_graphics/unicode/sheenbidi/Source/SBLog.h \
+  /Volumes/data1/AI_Gerelateerd/github/muziek_gerelateerd/C64-SID-Studio/build/_deps/juce-src/modules/juce_graphics/unicode/sheenbidi/Source/IsolatingRun.h \
+  /Volumes/data1/AI_Gerelateerd/github/muziek_gerelateerd/C64-SID-Studio/build/_deps/juce-src/modules/juce_graphics/unicode/sheenbidi/Source/SBCodepointSequence.h \
+  /Volumes/data1/AI_Gerelateerd/github/muziek_gerelateerd/C64-SID-Studio/build/_deps/juce-src/modules/juce_graphics/unicode/sheenbidi/Source/LevelRun.c \
+  /Volumes/data1/AI_Gerelateerd/github/muziek_gerelateerd/C64-SID-Studio/build/_deps/juce-src/modules/juce_graphics/unicode/sheenbidi/Source/PairingLookup.c \
+  /Volumes/data1/AI_Gerelateerd/github/muziek_gerelateerd/C64-SID-Studio/build/_deps/juce-src/modules/juce_graphics/unicode/sheenbidi/Source/RunQueue.c \
+  /Volumes/data1/AI_Gerelateerd/github/muziek_gerelateerd/C64-SID-Studio/build/_deps/juce-src/modules/juce_graphics/unicode/sheenbidi/Source/RunQueue.h \
+  /Volumes/data1/AI_Gerelateerd/github/muziek_gerelateerd/C64-SID-Studio/build/_deps/juce-src/modules/juce_graphics/unicode/sheenbidi/Source/SBAlgorithm.c \
+  /Volumes/data1/AI_Gerelateerd/github/muziek_gerelateerd/C64-SID-Studio/build/_deps/juce-src/modules/juce_graphics/unicode/sheenbidi/Source/SBParagraph.h \
+  /Volumes/data1/AI_Gerelateerd/github/muziek_gerelateerd/C64-SID-Studio/build/_deps/juce-src/modules/juce_graphics/unicode/sheenbidi/Source/SBAlgorithm.h \
+  /Volumes/data1/AI_Gerelateerd/github/muziek_gerelateerd/C64-SID-Studio/build/_deps/juce-src/modules/juce_graphics/unicode/sheenbidi/Source/SBBase.c \
+  /Volumes/data1/AI_Gerelateerd/github/muziek_gerelateerd/C64-SID-Studio/build/_deps/juce-src/modules/juce_graphics/unicode/sheenbidi/Source/ScriptLookup.h \
+  /Volumes/data1/AI_Gerelateerd/github/muziek_gerelateerd/C64-SID-Studio/build/_deps/juce-src/modules/juce_graphics/unicode/sheenbidi/Source/SBCodepointSequence.c \
+  /Volumes/data1/AI_Gerelateerd/github/muziek_gerelateerd/C64-SID-Studio/build/_deps/juce-src/modules/juce_graphics/unicode/sheenbidi/Source/SBLine.c \
+  /Volumes/data1/AI_Gerelateerd/github/muziek_gerelateerd/C64-SID-Studio/build/_deps/juce-src/modules/juce_graphics/unicode/sheenbidi/Source/SBLine.h \
+  /Volumes/data1/AI_Gerelateerd/github/muziek_gerelateerd/C64-SID-Studio/build/_deps/juce-src/modules/juce_graphics/unicode/sheenbidi/Source/SBLog.c \
+  /Volumes/data1/AI_Gerelateerd/github/muziek_gerelateerd/C64-SID-Studio/build/_deps/juce-src/modules/juce_graphics/unicode/sheenbidi/Source/SBMirrorLocator.c \
+  /Volumes/data1/AI_Gerelateerd/github/muziek_gerelateerd/C64-SID-Studio/build/_deps/juce-src/modules/juce_graphics/unicode/sheenbidi/Source/SBMirrorLocator.h \
+  /Volumes/data1/AI_Gerelateerd/github/muziek_gerelateerd/C64-SID-Studio/build/_deps/juce-src/modules/juce_graphics/unicode/sheenbidi/Source/SBParagraph.c \
+  /Volumes/data1/AI_Gerelateerd/github/muziek_gerelateerd/C64-SID-Studio/build/_deps/juce-src/modules/juce_graphics/unicode/sheenbidi/Source/StatusStack.h \
+  /Volumes/data1/AI_Gerelateerd/github/muziek_gerelateerd/C64-SID-Studio/build/_deps/juce-src/modules/juce_graphics/unicode/sheenbidi/Source/SBScriptLocator.c \
+  /Volumes/data1/AI_Gerelateerd/github/muziek_gerelateerd/C64-SID-Studio/build/_deps/juce-src/modules/juce_graphics/unicode/sheenbidi/Source/ScriptStack.h \
+  /Volumes/data1/AI_Gerelateerd/github/muziek_gerelateerd/C64-SID-Studio/build/_deps/juce-src/modules/juce_graphics/unicode/sheenbidi/Source/SBScriptLocator.h \
+  /Volumes/data1/AI_Gerelateerd/github/muziek_gerelateerd/C64-SID-Studio/build/_deps/juce-src/modules/juce_graphics/unicode/sheenbidi/Source/ScriptLookup.c \
+  /Volumes/data1/AI_Gerelateerd/github/muziek_gerelateerd/C64-SID-Studio/build/_deps/juce-src/modules/juce_graphics/unicode/sheenbidi/Source/ScriptStack.c \
+  /Volumes/data1/AI_Gerelateerd/github/muziek_gerelateerd/C64-SID-Studio/build/_deps/juce-src/modules/juce_graphics/unicode/sheenbidi/Source/StatusStack.c

@@ -53,10 +53,10 @@ RM = /opt/homebrew/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /Users/michiele/Downloads/SID-Studio-64-Ronde3C1-Fix-v0.3.5
+CMAKE_SOURCE_DIR = /Volumes/data1/AI_Gerelateerd/github/muziek_gerelateerd/C64-SID-Studio
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /Users/michiele/Downloads/SID-Studio-64-Ronde3C1-Fix-v0.3.5/build
+CMAKE_BINARY_DIR = /Volumes/data1/AI_Gerelateerd/github/muziek_gerelateerd/C64-SID-Studio/build
 
 # Include any dependencies generated for this target.
 include CMakeFiles/sid64.dir/depend.make
@@ -73,18 +73,18 @@ CMakeFiles/sid64.dir/codegen:
 .PHONY : CMakeFiles/sid64.dir/codegen
 
 CMakeFiles/sid64.dir/src/SidEngine.cpp.o: CMakeFiles/sid64.dir/flags.make
-CMakeFiles/sid64.dir/src/SidEngine.cpp.o: /Users/michiele/Downloads/SID-Studio-64-Ronde3C1-Fix-v0.3.5/src/SidEngine.cpp
+CMakeFiles/sid64.dir/src/SidEngine.cpp.o: /Volumes/data1/AI_Gerelateerd/github/muziek_gerelateerd/C64-SID-Studio/src/SidEngine.cpp
 CMakeFiles/sid64.dir/src/SidEngine.cpp.o: CMakeFiles/sid64.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/michiele/Downloads/SID-Studio-64-Ronde3C1-Fix-v0.3.5/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/sid64.dir/src/SidEngine.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/sid64.dir/src/SidEngine.cpp.o -MF CMakeFiles/sid64.dir/src/SidEngine.cpp.o.d -o CMakeFiles/sid64.dir/src/SidEngine.cpp.o -c /Users/michiele/Downloads/SID-Studio-64-Ronde3C1-Fix-v0.3.5/src/SidEngine.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Volumes/data1/AI_Gerelateerd/github/muziek_gerelateerd/C64-SID-Studio/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/sid64.dir/src/SidEngine.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/sid64.dir/src/SidEngine.cpp.o -MF CMakeFiles/sid64.dir/src/SidEngine.cpp.o.d -o CMakeFiles/sid64.dir/src/SidEngine.cpp.o -c /Volumes/data1/AI_Gerelateerd/github/muziek_gerelateerd/C64-SID-Studio/src/SidEngine.cpp
 
 CMakeFiles/sid64.dir/src/SidEngine.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/sid64.dir/src/SidEngine.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/michiele/Downloads/SID-Studio-64-Ronde3C1-Fix-v0.3.5/src/SidEngine.cpp > CMakeFiles/sid64.dir/src/SidEngine.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Volumes/data1/AI_Gerelateerd/github/muziek_gerelateerd/C64-SID-Studio/src/SidEngine.cpp > CMakeFiles/sid64.dir/src/SidEngine.cpp.i
 
 CMakeFiles/sid64.dir/src/SidEngine.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/sid64.dir/src/SidEngine.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/michiele/Downloads/SID-Studio-64-Ronde3C1-Fix-v0.3.5/src/SidEngine.cpp -o CMakeFiles/sid64.dir/src/SidEngine.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Volumes/data1/AI_Gerelateerd/github/muziek_gerelateerd/C64-SID-Studio/src/SidEngine.cpp -o CMakeFiles/sid64.dir/src/SidEngine.cpp.s
 
 # Object files for target sid64
 sid64_OBJECTS = \
@@ -96,7 +96,7 @@ sid64_EXTERNAL_OBJECTS =
 libsid64.a: CMakeFiles/sid64.dir/src/SidEngine.cpp.o
 libsid64.a: CMakeFiles/sid64.dir/build.make
 libsid64.a: CMakeFiles/sid64.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/Users/michiele/Downloads/SID-Studio-64-Ronde3C1-Fix-v0.3.5/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX static library libsid64.a"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/Volumes/data1/AI_Gerelateerd/github/muziek_gerelateerd/C64-SID-Studio/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX static library libsid64.a"
 	$(CMAKE_COMMAND) -P CMakeFiles/sid64.dir/cmake_clean_target.cmake
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/sid64.dir/link.txt --verbose=$(VERBOSE)
 
@@ -109,6 +109,6 @@ CMakeFiles/sid64.dir/clean:
 .PHONY : CMakeFiles/sid64.dir/clean
 
 CMakeFiles/sid64.dir/depend:
-	cd /Users/michiele/Downloads/SID-Studio-64-Ronde3C1-Fix-v0.3.5/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /Users/michiele/Downloads/SID-Studio-64-Ronde3C1-Fix-v0.3.5 /Users/michiele/Downloads/SID-Studio-64-Ronde3C1-Fix-v0.3.5 /Users/michiele/Downloads/SID-Studio-64-Ronde3C1-Fix-v0.3.5/build /Users/michiele/Downloads/SID-Studio-64-Ronde3C1-Fix-v0.3.5/build /Users/michiele/Downloads/SID-Studio-64-Ronde3C1-Fix-v0.3.5/build/CMakeFiles/sid64.dir/DependInfo.cmake "--color=$(COLOR)" sid64
+	cd /Volumes/data1/AI_Gerelateerd/github/muziek_gerelateerd/C64-SID-Studio/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /Volumes/data1/AI_Gerelateerd/github/muziek_gerelateerd/C64-SID-Studio /Volumes/data1/AI_Gerelateerd/github/muziek_gerelateerd/C64-SID-Studio /Volumes/data1/AI_Gerelateerd/github/muziek_gerelateerd/C64-SID-Studio/build /Volumes/data1/AI_Gerelateerd/github/muziek_gerelateerd/C64-SID-Studio/build /Volumes/data1/AI_Gerelateerd/github/muziek_gerelateerd/C64-SID-Studio/build/CMakeFiles/sid64.dir/DependInfo.cmake "--color=$(COLOR)" sid64
 .PHONY : CMakeFiles/sid64.dir/depend
 

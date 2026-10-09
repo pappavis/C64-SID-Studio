@@ -7,7 +7,7 @@ set(CMAKE_DEPENDS_GENERATOR "Unix Makefiles")
 # The top level Makefile was generated from the following files:
 set(CMAKE_MAKEFILE_DEPENDS
   "CMakeCache.txt"
-  "/Users/michiele/Downloads/SID-Studio-64-Ronde3C1-Fix-v0.3.5/CMakeLists.txt"
+  "/Volumes/data1/AI_Gerelateerd/github/muziek_gerelateerd/C64-SID-Studio/CMakeLists.txt"
   "CMakeFiles/4.4.3/CMakeCCompiler.cmake"
   "CMakeFiles/4.4.3/CMakeCXXCompiler.cmake"
   "CMakeFiles/4.4.3/CMakeSystem.cmake"

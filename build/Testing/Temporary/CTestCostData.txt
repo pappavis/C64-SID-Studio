@@ -1,5 +1,5 @@
-sid64_arpeggiator 1 0.240589
-sid64_sequence 1 0.274766
-sid64_engine 1 0.207926
-sid64_character 1 0.209025
+sid64_arpeggiator 1 0.224087
+sid64_sequence 1 0.436586
+sid64_engine 1 0.218175
+sid64_character 1 0.290624
 ---
